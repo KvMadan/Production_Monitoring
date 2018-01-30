@@ -5,19 +5,19 @@
         <Subsections />
         <Entries>
           <Entry key="ElapsedTime">
-            <double>5016.9249965</double>
+            <double>7.6609086999999993</double>
           </Entry>
           <Entry key="StartedAt">
-            <dateTime>2018-01-30T14:35:12.5144074+05:30</dateTime>
+            <dateTime>2018-01-30T16:30:02.8397219+05:30</dateTime>
           </Entry>
           <Entry key="EndedAt">
-            <dateTime>2018-01-30T15:58:49.4394039+05:30</dateTime>
+            <dateTime>2018-01-30T16:30:10.5006306+05:30</dateTime>
           </Entry>
           <Entry key="ReplayStatus">
-            <LastReplayRunStatus>NA</LastReplayRunStatus>
+            <LastReplayRunStatus>Passed</LastReplayRunStatus>
           </Entry>
           <Entry key="NumberOfReplayErrors">
-            <int>1</int>
+            <int>0</int>
           </Entry>
           <Entry key="NumberOfReplayCriticalErrors">
             <int>0</int>
@@ -30,7 +30,7 @@
     </Subsections>
     <Entries>
       <Entry key="Iterations">
-        <int>5000</int>
+        <int>1</int>
       </Entry>
     </Entries>
   </Section>
